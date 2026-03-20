@@ -58,7 +58,8 @@
 4. 运行工作流，节点将自动按顺序生成所有结果
 
 ### 示例工作流截图
-（此处可插入你的工作流截图）
+## 🖼️ 节点预览
+![ComfyUI-IAI666-Tools 节点界面](https://github.com/yuangudacihua/ComfyUI-IAI666-Tools/blob/main/666-1.png)
 
 ---
 
