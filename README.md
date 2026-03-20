@@ -10,7 +10,6 @@
 - **逐一生成结果**：执行时依次生成每张图片，便于调试和结果管理
 - **前端界面集成**：提供简洁的 Web 界面，方便查看任务队列和进度
 
----
 
 ## 📦 安装方法
 
@@ -53,7 +52,7 @@
 ## 📝 使用示例
 
 ### 基础工作流
-1. 在 ComfyUI 中添加 `Batch Load Images` 节点，选择需要处理的图片文件夹
+1. 在 ComfyUI 中添加 `Batch Load Images` 节点，节点搜索：666，选择需要处理的图片文件夹
 2. 添加 `Prompt Queue Manager` 节点，输入批量提示词（每行一个提示词）
 3. 连接 `Batch Load Images` → `Prompt Queue Manager` → 生成节点
 4. 运行工作流，节点将自动按顺序生成所有结果
@@ -68,12 +67,6 @@
 - 建议在 ComfyUI 日志中查看任务执行状态，便于排查问题
 - 若节点未显示，请检查 ComfyUI 终端日志是否有报错信息
 
----
-
-## 🐛 问题反馈
-如遇到问题或功能建议，请提交 [Issue](https://github.com/yuangudacihua/ComfyUI-IAI666-Tools/issues)，我会尽快回复。
-
----
 
 ## 📄 许可证
 本项目采用 MIT 许可证，详见 [LICENSE](LICENSE) 文件。
