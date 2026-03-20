@@ -60,6 +60,7 @@
 ### 示例工作流截图
 ## 🖼️ 节点预览
 ![ComfyUI-IAI666-Tools 节点界面](https://github.com/yuangudacihua/ComfyUI-IAI666-Tools/blob/main/666-1.png)
+![ComfyUI-IAI666-Tools 工作流界面](https://github.com/yuangudacihua/ComfyUI-IAI666-Tools/blob/main/666-3.png)
 
 ---
 
